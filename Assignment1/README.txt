@@ -7,9 +7,5 @@ Dependancies:
   pydotplus
 
 
-To run the decision tree:
+To run the decision tree, neural network and random forest:
   Open file in Jupiter notebook and run each cell in order
-To run the neural network:
-  Open file in Jupiter notebook and run each cell order
-To run the random forest:
-  Open file in Jupiter notebook and run each cell order
